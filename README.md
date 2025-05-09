@@ -1,6 +1,6 @@
 # 🖼️ CIFAR-10 Image Classification with CNN and Gradio
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/cifar10-cnn-gradio/blob/main/notebooks/CIFAR10_Classification.ipynb)
+[![Open in Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/cifar10-cnn-gradio/blob/main/notebooks/CIFAR10_Classification.ipynb](https://colab.research.google.com/drive/1LZsCh4P3ME7HgWvs1gkReoTKqlgvEk1a#scrollTo=LsZ7nhMgv9X1))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow Version](https://img.shields.io/badge/TensorFlow-2.8%2B-orange)

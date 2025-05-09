@@ -8,7 +8,7 @@
 
 A complete implementation of a Convolutional Neural Network (CNN) for CIFAR-10 image classification, with an interactive web interface using Gradio.
 
-![Demo Interface](media/demo_screenshot.png)
+![Demo Interface](/demo_screenshot.png)
 
 ## 📋 Table of Contents
 - [Features](#-features)
